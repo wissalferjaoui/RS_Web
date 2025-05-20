@@ -1,0 +1,67 @@
+{
+  "user": {
+    "id": 126,
+    "email": "wissalferjaoui@gmail.com",
+    "firstname": "Wissal",
+    "lastname": "Ferjaoui",
+    "status": "inactive",
+    "phone": "",
+    "isAcceptRgpd": true,
+    "company": {
+      "id": 16,
+      "name": "Dsi Tunisie"
+    }
+  },
+  "cities": [
+    {
+      "id": 2,
+      "name": "Cameroun"
+    },
+    {
+      "id": 1,
+      "name": "Paris"
+    },
+    {
+      "id": 3,
+      "name": "Strasbourg"
+    },
+    {
+      "id": 4,
+      "name": "Tunisie"
+    }
+  ],
+  "positions": [
+    {
+      "id": 58,
+      "name": "consultant technique",
+      "company": {
+        "id": 16,
+        "name": "Dsi Tunisie"
+      }
+    },
+    {
+      "id": 59,
+      "name": "auditeur sécurité",
+      "company": {
+        "id": 16,
+        "name": "Dsi Tunisie"
+      }
+    },
+    {
+      "id": 60,
+      "name": "administrateur génerale",
+      "company": {
+        "id": 16,
+        "name": "Dsi Tunisie"
+      }
+    },
+    {
+      "id": 61,
+      "name": "testeur fonctionnel",
+      "company": {
+        "id": 16,
+        "name": "Dsi Tunisie"
+      }
+    }
+  ]
+}
